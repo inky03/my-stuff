@@ -3,5 +3,10 @@ repository with source files of **my own work** for some mods, such as vs impost
 - fla files
 - aseprite files
 - a png (crazy aint it)
+- includes some legacy files (wips, concepts, other stuff)
 
 go wild (with credit of course)
+
+# contact info lol
+- discord: _emi#7477
+- twitter: [superinky_](https://twitter.com/superinky_)

@@ -1,9 +1,7 @@
-# VS. Impostor V4 flas
-repository with source files of **my own work** for the vs impostor v4 fnf mod, along with old versions of them
+# my FNF mod work
+repository with source files of **my own work** for some mods, such as vs impostor v4
+- fla files
+- aseprite files
+- a png (crazy aint it)
 
-includes
-- red impostor
-- green impostor
-- cutscene work
-- icons
-- and other shit
+go wild (with credit of course)

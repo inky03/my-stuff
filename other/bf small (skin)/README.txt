@@ -1,1 +1,2 @@
-go download the skin mod on gamebanana uhhh i havent uploaded it yet nevermind
+go download the skin mod on gamebanana !!
+https://gamebanana.com/mods/424991

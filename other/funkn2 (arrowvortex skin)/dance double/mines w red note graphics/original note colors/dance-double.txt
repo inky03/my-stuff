@@ -1,0 +1,59 @@
+Texture-notes     = "tex notes.png"
+Texture-receptors = "tex receptors.png"
+Texture-glow      = "tex glow.png"
+
+Receptor { col=0; x=-275 }
+Receptor { col=1; x=-210 }
+Receptor { col=2; x=-145 }
+Receptor { col=3; x=-80 }
+Receptor { col=4; x=+80 }
+Receptor { col=5; x=+145 }
+Receptor { col=6; x=+210 }
+Receptor { col=7; x=+275 }
+
+Receptor-on { size=64,64; src=0,0 }
+Receptor-on { col=0,4; rot=90 }
+Receptor-on { col=1,5; rot=0 }
+Receptor-on { col=2,6; rot=180 }
+Receptor-on { col=3,7; rot=270 }
+
+Receptor-off { size=64,64; src=64,0 }
+Receptor-off { col=0,4; rot=90 }
+Receptor-off { col=1,5; rot=0 }
+Receptor-off { col=2,6; rot=180 }
+Receptor-off { col=3,7; rot=270 }
+
+Receptor-glow { size=96,96; src=0,0 }
+Receptor-glow { col=0,4; rot=90; src=0,96 }
+Receptor-glow { col=1,5; rot=0; src=192,96 }
+Receptor-glow { col=2,6; rot=180; src=288,96 }
+Receptor-glow { col=3,7; rot=270; src=0,0 }
+
+Note { size=64,64 }
+
+Note { col=0,4; rot=90; src=0,64 }
+Note { col=1,5; rot=0; src=128,64 }
+Note { col=2,6; rot=180; src=192,64 }
+Note { col=3,7; rot=270; src=0,0 }
+
+Mine { size=64,64; }
+Mine { col=0,4; rot=90 }
+Mine { col=1,5; rot=0 }
+Mine { col=2,6; rot=180 }
+Mine { col=3,7; rot=270 }
+Mine { col=0,1,2,3; src=256,0 }
+Mine { col=4,5,6,7; src=256,0 }
+
+Hold-body { size=64,0 }
+Hold-tail { size=64,64 }
+Hold-body { col=0,4; src=448,132 }
+Hold-tail { col=0,4; src=448,192 }
+Hold-body { col=1,5; src=320,132 }
+Hold-tail { col=1,5; src=320,192 }
+Hold-body { col=2,6; src=384,132 }
+Hold-tail { col=2,6; src=384,192 }
+Hold-body { col=3,7; src=256,132 }
+Hold-tail { col=3,7; src=256,192 }
+
+Roll-body { size=64,0;  src=192,160 }
+Roll-tail { size=64,64; src=192,192 }

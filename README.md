@@ -8,5 +8,5 @@ repository with source files of **my own work** for some mods, such as vs impost
 go wild (with credit of course)
 
 # contact info lol
-- discord: _emi#7477
+- discord: emily#0914
 - twitter: [superinky_](https://twitter.com/superinky_)

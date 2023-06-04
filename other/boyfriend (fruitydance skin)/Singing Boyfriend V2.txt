@@ -1,0 +1,16 @@
+Waiting
+Feelin It
+Funkin
+Left
+Down
+Up
+Right
+Static Left
+Static Down
+Static Up
+Static Right
+Victory
+Hit
+Dodge
+Miss
+Held

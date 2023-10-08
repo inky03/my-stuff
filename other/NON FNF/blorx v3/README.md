@@ -1,0 +1,3 @@
+- i'll add birdfont project files if i find them :3
+- idk where v1 is
+- the only difference between v2 and v3 is probably more characters. i forgo

@@ -9,5 +9,7 @@ repository with source files of **my own work** for fnf mods, such as vs imposto
 go wild!! (with credit of course)
 
 # contact info lol
-- discord: @emi3_ (dont ask me to work in your fnf mods pls i probably wont)
-- twitter: [superinky_](https://twitter.com/superinky_) (i barely ever respond to dms though)
+- discord: @emi3_
+- twitter: [superinky_](https://twitter.com/superinky_) (dont usually respond to messages)
+- gamebanana: [emi_](https://gamebanana.com/members/1709917) (barely use)
+dont ask me to work in your fnf mods pls i probably wont

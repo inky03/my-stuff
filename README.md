@@ -1,7 +1,3 @@
-***NOTE: THIS IS NO LONGER USED JUST FOR FNF STUFF!***
-
-(03/24/24) im changing repository name to just my-stuff or something like that in a few days. just a heads up
-
 # my stuff
 repository with source files of ***my own work** for both fnf and non fnf projects (which you may find under "other/NON FNF"):
 - .fla (flash/animate)

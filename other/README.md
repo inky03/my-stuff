@@ -1,2 +1,2 @@
-# credit me if using any of these please :3
+# credit me if using any of these please!!
 or dont you meanie
